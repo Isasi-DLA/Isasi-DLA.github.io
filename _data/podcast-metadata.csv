@@ -1,4 +1,4 @@
-objectid,filename,title,creator,date,subject,location
-podcast_001,podcast_001,Cinco preguntas a Alex Gil,	Gabriel Calarco,2021-09,Global DH; minimal computing; archivos digitales,Nueva York (EEUU)
-podcast_002,podcast_002,Cinco preguntas a Ernesto Priani,	Gabriel Calarco,2021-09,Red HD; Filosofía,Ciudad de México (México)
-podcast_003,podcast_003,Cinco preguntas a Jennifer Isasi,	Gabriel Calarco,2021-09,HD Multilingües; Digital Humanities; archivos digitales,State College (EEUU)
+objectid,filename,youtubeid,title,creator,date,subject,location
+podcast_001,podcast_001,https://www.youtube.com/watch?v=YLT4IlgJKU4&list=PLjxMH6JwH1oPoytLMaxhmbCx1IFpVj7ux&index=1,Cinco preguntas a Alex Gil,	Gabriel Calarco,2021-09,Global DH; minimal computing; archivos digitales,Nueva York (EEUU)
+podcast_002,podcast_002,https://www.youtube.com/watch?v=6vEgvUK2mno&list=PLjxMH6JwH1oPoytLMaxhmbCx1IFpVj7ux&index=3,Cinco preguntas a Ernesto Priani,	Gabriel Calarco,2021-09,Red HD; Filosofía,Ciudad de México (México)
+podcast_003,podcast_003,https://www.youtube.com/watch?v=MlATAslnAaQ&list=PLjxMH6JwH1oPoytLMaxhmbCx1IFpVj7ux&index=2,Cinco preguntas a Jennifer Isasi,	Gabriel Calarco,2021-09,HD Multilingües; Digital Humanities; archivos digitales,State College (EEUU)
