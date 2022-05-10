@@ -1,4 +1,4 @@
-objectid,filename,youtubeid,title,creator,date,subject,location, latitude, longitude
-podcast_001,podcast_001,https://www.youtube.com/watch?v=YLT4IlgJKU4&list=PLjxMH6JwH1oPoytLMaxhmbCx1IFpVj7ux&index=1,Cinco preguntas a Alex Gil,	Gustavo Navarro,2021-09,Global DH; Minimal Computing; Archivos digitales,Nueva York (EEUU),40.712776,-74.005974
-podcast_002,podcast_002,https://www.youtube.com/watch?v=6vEgvUK2mno&list=PLjxMH6JwH1oPoytLMaxhmbCx1IFpVj7ux&index=3,Cinco preguntas a Ernesto Priani,	Gimena del Rio Riande,2021-09,Red HD; Filosofía,Ciudad de México (México),19.483049,-99.082916
-podcast_003,podcast_003,https://www.youtube.com/watch?v=MlATAslnAaQ&list=PLjxMH6JwH1oPoytLMaxhmbCx1IFpVj7ux&index=2,Cinco preguntas a Jennifer Isasi,	Gabriel Calarco,2021-09,HD Multilingües; Digital Humanities; Archivos digitales,State College (EEUU),40.789680,-77.858063
+objectid,filename,youtubeid,title,creator,date,subject,location, latitude, longitude, type
+podcast_001,podcast_001,https://www.youtube.com/watch?v=YLT4IlgJKU4&list=PLjxMH6JwH1oPoytLMaxhmbCx1IFpVj7ux&index=1,Cinco preguntas a Alex Gil,	Gustavo Navarro,2021-09,Global DH; Minimal Computing; Archivos digitales,Nueva York (EEUU),40.712776,-74.005974, podcast
+podcast_002,podcast_002,https://www.youtube.com/watch?v=6vEgvUK2mno&list=PLjxMH6JwH1oPoytLMaxhmbCx1IFpVj7ux&index=3,Cinco preguntas a Ernesto Priani,	Gimena del Rio Riande,2021-09,Red HD; Filosofía,Ciudad de México (México),19.483049,-99.082916, podcast
+podcast_003,podcast_003,https://www.youtube.com/watch?v=MlATAslnAaQ&list=PLjxMH6JwH1oPoytLMaxhmbCx1IFpVj7ux&index=2,Cinco preguntas a Jennifer Isasi,	Gabriel Calarco,2021-09,HD Multilingües; Digital Humanities; Archivos digitales,State College (EEUU),40.789680,-77.858063, podcast
